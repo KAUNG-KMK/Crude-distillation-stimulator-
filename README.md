@@ -73,5 +73,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Created by [Your Name] — Chemical Engineering Student  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+Created by Kaung Min Khant — Chemical Engineering Student  
+[GitHub](https://github.com/KAUNG-KMK) | [LinkedIn](https://linkedin.com/in/kaung-kmk)
