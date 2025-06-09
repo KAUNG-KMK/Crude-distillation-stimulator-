@@ -41,7 +41,7 @@ The application aims to provide a hands-on tool for chemical engineering student
 3. Run the app:
 
     ```bash
-    streamlit run app.py
+    streamlit run refineapp.py
     ```
 
 4. The app will open in your default web browser.
